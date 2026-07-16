@@ -14,7 +14,6 @@ I enjoy developing full-stack web applications, exploring AI-powered solutions, 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
 <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge"/>
@@ -56,18 +55,6 @@ A deep learning project using pretrained ResNet models to classify dementia from
 
 ---
 
-### 📈 GitHub Stats
-
-![Gloria's GitHub stats](https://github-readme-stats.vercel.app/api?username=azukaegoo&show_icons=true&theme=github_dark)
-
----
-
-### 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azukaegoo&layout=compact&theme=github_dark)
-
----
-
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=azukaegoo&theme=github-dark)
@@ -82,6 +69,4 @@ A deep learning project using pretrained ResNet models to classify dementia from
 
 🌐 **GitHub:** https://github.com/azukaegoo
 
----
 
-⭐ *"Building software that creates meaningful impact through technology and innovation."*
