@@ -4,7 +4,7 @@
 
 I am a Health Informatics student at **Deggendorf Institute of Technology** with a passion for building software that solves real-world problems.
 
-I enjoy developing full-stack web applications, exploring AI-powered solutions, and creating technologies that improve healthcare and everyday life.
+I enjoy developing full-stack web applications, solutions, and creating technologies that improve healthcare and everyday life.
 
 ---
 
@@ -45,9 +45,6 @@ A deep learning project using pretrained ResNet models to classify dementia from
 ---
 
 ### 🤖 Currently Exploring
-
-- Artificial Intelligence
-- AI-assisted Development
 - Software Testing & Quality Assurance
 - Workflow Automation
 - Backend Development
